@@ -8,19 +8,19 @@ This repository contains implementations of the 13 fundamental data structures i
 
 ## Table of Contents
 
-- [2D Array](https://www.notion.so/HUB-598671fa2a89460193bf1b95f95f0aa5?pvs=21)
-- [AST Tree](https://www.notion.so/HUB-598671fa2a89460193bf1b95f95f0aa5?pvs=21)
-- [Array](https://www.notion.so/HUB-598671fa2a89460193bf1b95f95f0aa5?pvs=21)
-- [Double Linked List](https://www.notion.so/HUB-598671fa2a89460193bf1b95f95f0aa5?pvs=21)
-- [Graph](https://www.notion.so/HUB-598671fa2a89460193bf1b95f95f0aa5?pvs=21)
-- [HashMap](https://www.notion.so/HUB-598671fa2a89460193bf1b95f95f0aa5?pvs=21)
-- [HashSet](https://www.notion.so/HUB-598671fa2a89460193bf1b95f95f0aa5?pvs=21)
-- [Linked List](https://www.notion.so/HUB-598671fa2a89460193bf1b95f95f0aa5?pvs=21)
-- [Max Heap](https://www.notion.so/HUB-598671fa2a89460193bf1b95f95f0aa5?pvs=21)
-- [Queue](https://www.notion.so/HUB-598671fa2a89460193bf1b95f95f0aa5?pvs=21)
-- [Stack](https://www.notion.so/HUB-598671fa2a89460193bf1b95f95f0aa5?pvs=21)
-- [Tree](https://www.notion.so/HUB-598671fa2a89460193bf1b95f95f0aa5?pvs=21)
-- [Trie](https://www.notion.so/HUB-598671fa2a89460193bf1b95f95f0aa5?pvs=21)
+- 2D Array
+- AST Tree
+- Array
+- Double Linked List
+- Graph
+- HashMap
+- HashSet
+- Linked List
+- Max Heap
+- Queue
+- Stack
+- Tree
+- Trie
 
 ## 2D Array
 
